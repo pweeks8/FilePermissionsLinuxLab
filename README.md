@@ -18,7 +18,7 @@ Project consists of updating file permissions for certain files and directories 
 
 <p align="center">
 Check file and directory details <br/>
-<img src="https://imgur.com/a/uOv2ypM" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jHkV0KS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
